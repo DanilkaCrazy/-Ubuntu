@@ -25,8 +25,8 @@ Ubuntu — это разрабатываемая сообществом, осн�
 ![Screenshot_6](https://user-images.githubusercontent.com/95550202/229161971-37833f65-70c8-466c-91e7-26f7d9abc611.png)
 
  
-Виртуальная машина с данными!
-[Screenshot_100](https://user-images.githubusercontent.com/95550202/229162807-e11ff8f6-c1be-4f87-aecc-359ac46135ae.png)
+Виртуальная машина с данными
+![Screenshot_100](https://user-images.githubusercontent.com/95550202/229162807-e11ff8f6-c1be-4f87-aecc-359ac46135ae.png)
 
 ## 2. Далее установим окружение рабочего стола:
 
